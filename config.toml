@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://ekaterinailin.github.io/lean-site-template/"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -9,7 +9,7 @@ canonifyURLs = true
 # you can change this language code. In this particular case,
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -18,20 +18,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Effective Altruism Potsdam"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
-  strapline = "Helping you do good better"
+  fullTitle = "Effective Altruism Potsdam"
+  strapline = "Doing good better together"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism Potsdam"
+  orgLocations = "Potsdam, Germany"
+  contactEmail = "ea-potsdam@posteo.net"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -87,3 +87,63 @@ DefaultContentLanguage = "en"
   facebookUrl = ""
   twitterUrl = ""
   meetupUrl = ""
+  
+  #------------------------------------------------------------------------------
+  
+  [Languages.de]
+  languageCode = "de"
+  title = "Die beste EA Webseite"
+  weight = 2
+
+
+  [Languages.de.general]
+  fullTitle = "EA ist das Beste"
+  strapline = "Habe ich nicht schon gesagt, dass EA ist das Beste?!"
+
+  [Languages.de.groupinfo]
+  legalOrgName = "Effective Altruism Awesomeville"
+  orgLocations = "Awesometown"
+  registeredCharityNumber = "3.14159"
+  contactEmail = "awesome@ea.com"
+
+  [Languages.de.navbar]
+  home = "Heim"
+  faq = "FAQ"
+  effectiveAltruism = "Effektiven Altruismus"
+  aboutEA = "Über EA"
+  readingMaterial = "Lesestoff"
+  keyTerms = "Wortliste"
+  organizations = "Organisationen"
+  contact= "Kontakte"
+
+  [Languages.de.pages]
+  contactPageHeader = "Wenden Sie sich an uns"
+  aboutEAPageHeader = "Was ist Effektiven Altruismus?"
+
+  [Languages.de.homepage]
+  topBannerText = "Wer sind wir?"
+  leadText = "Wir wollen die Welt besser helfen"
+  firstSectionHeader = "Mein deutsch..."
+  secondSectionHeader = "...ist echt nicht so gut"
+  thirdSectionHeader = "Also geb ich auf"
+  bottomBannerText = "..und so weiter"
+
+  [Languages.de.contactform]
+  leadText = "Sagen Sie Hallo!"
+  senderName = "Deine Name(required)"
+  senderEmail = "Dein Email (required)"
+  emailSubject = "Subjekt"
+  emailMessage = "Deine Nachricht:"
+  send = "Schicken"
+
+  [Languages.de.jumbotron]
+  firstButtonText = "Folgen Sie uns"
+  firstButtonLink = "http://www.mailinglist.link/12345"
+  secondButtonText = "Finden Sie uns auf Facebook"
+  secondButtonLink = "http://www.facebook.com/someEAFacebookGroup"
+  meetupButtonText = "Finden Sie uns auf Meetup"
+
+  [Languages.de.urls]
+  facebookUrl = "http://www.facebook.com/someEAFacebookGroup"
+  #twitterUrl = ""
+  meetupUrl = "http://www.meetup.com/someEAMeetupGroup"
