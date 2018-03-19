@@ -92,24 +92,24 @@ DefaultContentLanguage = "de"
   
   [Languages.de]
   languageCode = "de"
-  title = "Die beste EA Webseite"
+  title = "Effektiver Altruismus Potsdam"
   weight = 2
 
 
   [Languages.de.general]
-  fullTitle = "EA ist das Beste"
-  strapline = "Habe ich nicht schon gesagt, dass EA ist das Beste?!"
+  fullTitle = "Effektiver Altruismus Potsdam"
+  strapline = "Zusammen Gutes besser tun"
 
   [Languages.de.groupinfo]
-  legalOrgName = "Effective Altruism Awesomeville"
-  orgLocations = "Awesometown"
-  registeredCharityNumber = "3.14159"
-  contactEmail = "awesome@ea.com"
+  legalOrgName = "Effektiver Altruismus Potsdam"
+  orgLocations = "Potsdam"
+  registeredCharityNumber = ""
+  contactEmail = "ea-potsdam@posteo.net"
 
   [Languages.de.navbar]
-  home = "Heim"
+  home = "Start"
   faq = "FAQ"
-  effectiveAltruism = "Effektiven Altruismus"
+  effectiveAltruism = "Effektiver Altruismus"
   aboutEA = "Über EA"
   readingMaterial = "Lesestoff"
   keyTerms = "Wortliste"
@@ -117,13 +117,13 @@ DefaultContentLanguage = "de"
   contact= "Kontakte"
 
   [Languages.de.pages]
-  contactPageHeader = "Wenden Sie sich an uns"
-  aboutEAPageHeader = "Was ist Effektiven Altruismus?"
+  contactPageHeader = "Schreib uns!"
+  aboutEAPageHeader = "Was ist Effektiver Altruismus?"
 
   [Languages.de.homepage]
   topBannerText = "Wer sind wir?"
-  leadText = "Wir wollen die Welt besser helfen"
-  firstSectionHeader = "Mein deutsch..."
+  leadText = ""
+  firstSectionHeader = ""
   secondSectionHeader = "...ist echt nicht so gut"
   thirdSectionHeader = "Also geb ich auf"
   bottomBannerText = "..und so weiter"
@@ -137,13 +137,13 @@ DefaultContentLanguage = "de"
   send = "Schicken"
 
   [Languages.de.jumbotron]
-  firstButtonText = "Folgen Sie uns"
-  firstButtonLink = "http://www.mailinglist.link/12345"
-  secondButtonText = "Finden Sie uns auf Facebook"
-  secondButtonLink = "http://www.facebook.com/someEAFacebookGroup"
-  meetupButtonText = "Finden Sie uns auf Meetup"
+  firstButtonText = "Regelmäßige Einladungen zu unseren offenen Treffen:"
+  firstButtonLink = "http://eepurl.com/daD32j"
+  secondButtonText = "Wir sind auf Facebook:"
+  secondButtonLink = "https://fb.me/EAPotsdam"
+  #meetupButtonText = ""
 
   [Languages.de.urls]
-  facebookUrl = "http://www.facebook.com/someEAFacebookGroup"
+  facebookUrl = "https://fb.me/EAPotsdam"
   #twitterUrl = ""
-  meetupUrl = "http://www.meetup.com/someEAMeetupGroup"
+  #meetupUrl = "http://www.meetup.com/someEAMeetupGroup"
