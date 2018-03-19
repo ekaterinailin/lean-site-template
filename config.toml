@@ -114,7 +114,7 @@ DefaultContentLanguage = "de"
   readingMaterial = "Lesestoff"
   keyTerms = "Wortliste"
   organizations = "Organisationen"
-  contact= "Kontakte"
+  contact= "Kontakt"
 
   [Languages.de.pages]
   contactPageHeader = "Schreib uns!"
@@ -122,24 +122,24 @@ DefaultContentLanguage = "de"
 
   [Languages.de.homepage]
   topBannerText = "Wer sind wir?"
-  leadText = ""
-  firstSectionHeader = ""
-  secondSectionHeader = "...ist echt nicht so gut"
-  thirdSectionHeader = "Also geb ich auf"
-  bottomBannerText = "..und so weiter"
+  leadText = "Der Effektive Altruismus"
+  firstSectionHeader = "liefert keine Antworten."
+  secondSectionHeader = "Aber er stellt die richtigen Fragen."
+  #thirdSectionHeader = "Also geb ich auf"
+  #bottomBannerText = "..und so weiter"
 
   [Languages.de.contactform]
-  leadText = "Sagen Sie Hallo!"
-  senderName = "Deine Name(required)"
-  senderEmail = "Dein Email (required)"
-  emailSubject = "Subjekt"
+  leadText = "Schreib uns!"
+  senderName = "Name"
+  senderEmail = "Email-Adresse"
+  emailSubject = "Betreff"
   emailMessage = "Deine Nachricht:"
-  send = "Schicken"
+  send = "Senden"
 
   [Languages.de.jumbotron]
-  firstButtonText = "Regelmäßige Einladungen zu unseren offenen Treffen:"
+  firstButtonText = "Komm zu unseren offenen Treffen"
   firstButtonLink = "http://eepurl.com/daD32j"
-  secondButtonText = "Wir sind auf Facebook:"
+  secondButtonText = "Wir sind auf Facebook"
   secondButtonLink = "https://fb.me/EAPotsdam"
   #meetupButtonText = ""
 
