@@ -73,10 +73,10 @@ DefaultContentLanguage = "de"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  firstButtonText = "Join our get-togethers!"
+  firstButtonLink = "http://eepurl.com/daD32j"
+  secondButtonText = "Find us on Facebook!"
+  secondButtonLink = "https://fb.me/EAPotsdam"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -84,12 +84,12 @@ DefaultContentLanguage = "de"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
+  facebookUrl = "https://fb.me/EAPotsdam"
   twitterUrl = ""
   meetupUrl = ""
-  
+
   #------------------------------------------------------------------------------
-  
+
   [Languages.de]
   languageCode = "de"
   title = "Effektiver Altruismus Potsdam"
@@ -122,11 +122,11 @@ DefaultContentLanguage = "de"
 
   [Languages.de.homepage]
   topBannerText = "Wer sind wir?"
-  leadText = "Der Effektive Altruismus"
-  firstSectionHeader = "liefert keine Antworten."
-  secondSectionHeader = "Aber er stellt die richtigen Fragen."
-  #thirdSectionHeader = "Also geb ich auf"
-  #bottomBannerText = "..und so weiter"
+  leadText = "Herz meets Kopf"
+  firstSectionHeader = "Ethische Berufswahl"
+  secondSectionHeader = "Offene Community"
+  thirdSectionHeader = "Rationales Denken"
+  bottomBannerText = "Teil des weltweiten EA-Netzwerks"
 
   [Languages.de.contactform]
   leadText = "Schreib uns!"
@@ -137,9 +137,9 @@ DefaultContentLanguage = "de"
   send = "Senden"
 
   [Languages.de.jumbotron]
-  firstButtonText = "Komm zu unseren offenen Treffen"
+  firstButtonText = "Komm zu unseren offenen Treffen!"
   firstButtonLink = "http://eepurl.com/daD32j"
-  secondButtonText = "Wir sind auf Facebook"
+  secondButtonText = "Wir sind auf Facebook!"
   secondButtonLink = "https://fb.me/EAPotsdam"
   #meetupButtonText = ""
 
