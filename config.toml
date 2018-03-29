@@ -9,7 +9,7 @@ canonifyURLs = true
 # you can change this language code. In this particular case,
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
