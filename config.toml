@@ -9,7 +9,7 @@ canonifyURLs = true
 # you can change this language code. In this particular case,
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -110,10 +110,10 @@ DefaultContentLanguage = "en"
   home = "Start"
   faq = "FAQ"
   effectiveAltruism = "Effektiver Altruismus"
-  aboutEA = "Über EA"
-  readingMaterial = "Lesestoff"
-  keyTerms = "Wortliste"
-  organizations = "Organisationen"
+  aboutEA = "About EA"
+  readingMaterial = "StudiumPlus"
+  keyTerms = "Key Terms"
+  organizations = "Community"
   contact= "Kontakt"
 
   [Languages.de.pages]
@@ -122,11 +122,11 @@ DefaultContentLanguage = "en"
 
   [Languages.de.homepage]
   topBannerText = "Wer sind wir?"
-  leadText = "Herz meets Kopf"
-  firstSectionHeader = "Ethische Berufswahl"
-  secondSectionHeader = "Offene Community"
-  thirdSectionHeader = "Rationales Denken"
-  bottomBannerText = "Teil des weltweiten EA-Netzwerks"
+  leadText = "EA Potsdam ist eine Gruppe Gleichgesinnter Effektiver Altruist*innen in und um Potsdam"
+  firstSectionHeader = "Zukunft gestalten"
+  secondSectionHeader = "offene Community"
+  thirdSectionHeader = "rationales Denken"
+  bottomBannerText = "Gemeinsam auf der ganzen Welt Gutes tun"
 
   [Languages.de.contactform]
   leadText = "Schreib uns!"
