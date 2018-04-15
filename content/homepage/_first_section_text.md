@@ -1,1 +1,1 @@
-We want to help you use evidence and reason to make the world a better place.
+We discuss knowledge and opinions in face-to-face exchange and learn from one another.

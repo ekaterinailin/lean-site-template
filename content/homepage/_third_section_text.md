@@ -1,1 +1,1 @@
-Some projects are thousands of times more effective than others. We apply logic and research to maximise our impact.
+We support one another at EA projects and work together towards a better future.
