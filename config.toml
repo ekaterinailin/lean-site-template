@@ -122,7 +122,7 @@ DefaultContentLanguage = "en"
 
   [Languages.de.homepage]
   topBannerText = "Wer sind wir?"
-  leadText = "EA Potsdam ist eine Gruppe Gleichgesinnter Effektiver Altruist*innen in und um Potsdam"
+  leadText = "EA Potsdam bringt Effektive Altruist*innen in und um Potsdam zusammen"
   firstSectionHeader = "Zukunft gestalten"
   secondSectionHeader = "offene Community"
   thirdSectionHeader = "rationales Denken"
