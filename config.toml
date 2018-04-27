@@ -19,7 +19,7 @@ DefaultContentLanguage = "de"
   [Languages]
   [Languages.en]
   title = "Effective Altruism Potsdam"
-  weight = 1
+  weight = 2
   languageCode = "en"
 
   [Languages.en.general]
@@ -93,7 +93,7 @@ DefaultContentLanguage = "de"
   [Languages.de]
   languageCode = "de"
   title = "Effektiver Altruismus Potsdam"
-  weight = 2
+  weight = 1
 
 
   [Languages.de.general]
