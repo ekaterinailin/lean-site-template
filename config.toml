@@ -10,7 +10,6 @@ canonifyURLs = true
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
 DefaultContentLanguage = "en"
-disableLanguages =["de"]
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -94,7 +93,7 @@ disableLanguages =["de"]
   [Languages.de]
   languageCode = "de"
   title = "Effektiver Altruismus Potsdam"
-  weight = 0
+  weight = 2
 
 
   [Languages.de.general]
