@@ -1,1 +1,1 @@
-Wir diskutieren Wissen und Meinungen im persönlichen Austausch und lernen voneinander.
+We discuss knowledge and opinions in face-to-face exchange and learn from one another.
