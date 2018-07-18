@@ -22,18 +22,18 @@ DefaultContentLanguage = "en"
   weight = 1
   languageCode = "en"
 
-  [Languages.en.general]
+  [[Languages.en.general]]
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Effective Altruism Potsdam"
   strapline = "Doing good better together"
 
   ## -- EA GROUP INFO -- ##
-  [Languages.en.groupinfo]
+  [[Languages.en.groupinfo]]
   legalOrgName = "Effective Altruism Potsdam"
   orgLocations = "Potsdam, Germany"
   contactEmail = "ea-potsdam@posteo.net"
 
-  [Languages.en.navbar]
+  [[Languages.en.navbar]]
   ## -- NAVIGATION BAR HEADERS -- ##
   # You probably don't need/want to change these,
   # but if you do you'll also want to change the relevant .md file under the
@@ -47,12 +47,12 @@ DefaultContentLanguage = "en"
   organizations = "Organizations"
   contact= "Contact"
 
-  [Languages.en.pages]
+  [[Languages.en.pages]]
   ## -- Page Headers -- ##
   contactPageHeader = "Contact us"
   aboutEAPageHeader = "What is Effective Altruism?"
 
-  [Languages.en.homepage]
+  [[Languages.en.homepage]]
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
@@ -61,7 +61,7 @@ DefaultContentLanguage = "en"
   thirdSectionHeader = "Finding better ways to help"
   bottomBannerText = "A proud member of the effective altruism network"
 
-  [Languages.en.contactform]
+  [[Languages.en.contactform]]
   leadText = "Say hi!"
   senderName = "Your name (required)"
   senderEmail = "Your email (required)"
@@ -69,7 +69,7 @@ DefaultContentLanguage = "en"
   emailMessage = "Your Message"
   send = "Send"
 
-  [Languages.en.jumbotron]
+  [[Languages.en.jumbotron]]
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
@@ -80,7 +80,7 @@ DefaultContentLanguage = "en"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
-  [Languages.en.urls]
+  [[Languages.en.urls]]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
@@ -96,17 +96,17 @@ DefaultContentLanguage = "en"
   weight = 2
 
 
-  [Languages.de.general]
+  [[Languages.de.general]]
   fullTitle = "Effektiver Altruismus Potsdam"
   strapline = "Zusammen Gutes besser tun"
 
-  [Languages.de.groupinfo]
+  [[Languages.de.groupinfo]]
   legalOrgName = "Effektiver Altruismus Potsdam"
   orgLocations = "Potsdam"
   registeredCharityNumber = ""
   contactEmail = "ea-potsdam@posteo.net"
 
-  [Languages.de.navbar]
+  [[Languages.de.navbar]]
   home = "Start"
   faq = "FAQ"
   effectiveAltruism = "Effektiver Altruismus"
@@ -116,11 +116,11 @@ DefaultContentLanguage = "en"
   organizations = "Community"
   contact= "Kontakt"
 
-  [Languages.de.pages]
+  [[Languages.de.pages]]
   contactPageHeader = "Schreib uns!"
   aboutEAPageHeader = "Was ist Effektiver Altruismus?"
 
-  [Languages.de.homepage]
+  [[Languages.de.homepage]]
   topBannerText = "Wer sind wir?"
   leadText = "EA Potsdam bringt Effektive Altruist*innen in und um Potsdam zusammen"
   firstSectionHeader = "Zukunft gestalten"
@@ -128,7 +128,7 @@ DefaultContentLanguage = "en"
   thirdSectionHeader = "rationales Denken"
   bottomBannerText = "Gemeinsam auf der ganzen Welt Gutes tun"
 
-  [Languages.de.contactform]
+  [[Languages.de.contactform]]
   leadText = "Schreib uns!"
   senderName = "Name"
   senderEmail = "Email-Adresse"
@@ -136,14 +136,14 @@ DefaultContentLanguage = "en"
   emailMessage = "Deine Nachricht:"
   send = "Senden"
 
-  [Languages.de.jumbotron]
+  [[Languages.de.jumbotron]]
   firstButtonText = "Komm zu unseren offenen Treffen!"
   firstButtonLink = "http://eepurl.com/daD32j"
   secondButtonText = "Wir sind auf Facebook!"
   secondButtonLink = "https://fb.me/EAPotsdam"
   #meetupButtonText = ""
 
-  [Languages.de.urls]
+  [[Languages.de.urls]]
   facebookUrl = "https://fb.me/EAPotsdam"
   #twitterUrl = ""
   #meetupUrl = "http://www.meetup.com/someEAMeetupGroup"
