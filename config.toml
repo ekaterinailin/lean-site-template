@@ -103,13 +103,7 @@ DefaultContentLanguage = "en"
   [Languages.de.groupinfo]
   legalOrgName = "Effektiver Altruismus Potsdam"
   orgLocations = "Potsdam"
-  registeredCharityNumber = "Impressum:
-Angaben gemaess 5 TMG:
-Ekaterina Ilin, 
-Carl-Daehne-Str. 10, 
-14469 Potsdam, 
-Kontakt: +49 (0) 17653135197, 
-E-Mail: ea-potsdam@posteo.net"
+  registeredCharityNumber = "Impressum: Angaben gemaess 5 TMG: Ekaterina Ilin, Carl-Daehne-Str. 10, 14469 Potsdam, Kontakt: +49 (0) 17653135197"
   contactEmail = "ea-potsdam@posteo.net"
 
   [Languages.de.navbar]
